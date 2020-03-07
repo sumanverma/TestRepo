@@ -12,6 +12,7 @@ public class Class1 {
   @Test
   public void g() {
 	  
-	  System.out.println("verma");
+	  System.out.println("VERMA");
+	  
   }
 }
